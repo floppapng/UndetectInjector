@@ -1,0 +1,8 @@
+﻿  inject.cpp
+C:\Users\Admin\Desktop\undetect injector floppa\undetect injector\undetect injector\inject.cpp(53,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  0 of 70 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  undetect injector.vcxproj -> C:\Users\Admin\Desktop\undetect injector floppa\undetect injector\x64\Release\undetect injector.exe

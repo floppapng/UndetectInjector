@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "undetect injector", "undetect injector\undetect injector.vcxproj", "{02D24090-5689-47E0-99E7-B46BF76EA255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02D24090-5689-47E0-99E7-B46BF76EA255}.Debug|x64.ActiveCfg = Debug|x64
+		{02D24090-5689-47E0-99E7-B46BF76EA255}.Debug|x64.Build.0 = Debug|x64
+		{02D24090-5689-47E0-99E7-B46BF76EA255}.Debug|x86.ActiveCfg = Debug|Win32
+		{02D24090-5689-47E0-99E7-B46BF76EA255}.Debug|x86.Build.0 = Debug|Win32
+		{02D24090-5689-47E0-99E7-B46BF76EA255}.Release|x64.ActiveCfg = Release|x64
+		{02D24090-5689-47E0-99E7-B46BF76EA255}.Release|x64.Build.0 = Release|x64
+		{02D24090-5689-47E0-99E7-B46BF76EA255}.Release|x86.ActiveCfg = Release|Win32
+		{02D24090-5689-47E0-99E7-B46BF76EA255}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B80E4AC-7F1F-40C0-A9CB-D5016D36BBF4}
+	EndGlobalSection
+EndGlobal
